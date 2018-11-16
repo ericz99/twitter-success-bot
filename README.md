@@ -1,7 +1,7 @@
 # Twitter Success Bot
 
 You are able to send success to your twitter account. Everything is monitor and tweet will be rt and liked!
-CURRENTLY UNDER DEVELOPMENT, BUSY WITH WORK/SCHOOL WORK AND LIFE!
+CURRENTLY UNDER DEVELOPMENT, BUSY WITH WORK/SCHOOL WORK AND LIFE! ~ ETA: soon lol
 
 ## Instruction
 
