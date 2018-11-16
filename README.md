@@ -5,20 +5,12 @@ CURRENTLY UNDER DEVELOPMENT, BUSY WITH WORK/SCHOOL WORK AND LIFE!
 
 ## Instruction
 
-- NPM install
-- cd twt-success-bot
-- npm start to run
-
-## Requirements
-
-- Colors
-- Twit
-- Console-stamp
-- Request
-- Request-promise
-- Moment
-- discord.js
-- nodemon
+- Open either OS exe file...
+- No need to install anything.
+- All you need is a discord application token for your server. Just put a random bot into your server and everything will take effect under "success" (without quotes) channel
+- Also, you need a twitter api token/access key, to get that just go to https://apps.twitter.com/ and register for an developer account..
+- Fill any credential in the config.json file.
+- AND ENJOY :)
 
 ## Usage
 
