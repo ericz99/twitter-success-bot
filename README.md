@@ -1,7 +1,7 @@
 # Twitter Success Bot
 
 You are able to send success to your twitter account. Everything is monitor and tweet will be rt and liked!
-Currently under development...
+CURRENTLY UNDER DEVELOPMENT, BUSY WITH WORK/SCHOOL WORK AND LIFE!
 
 ## Instruction
 
@@ -18,6 +18,7 @@ Currently under development...
 - Request-promise
 - Moment
 - discord.js
+- nodemon
 
 ## Usage
 
