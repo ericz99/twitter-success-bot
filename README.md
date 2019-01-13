@@ -11,6 +11,9 @@ CURRENTLY UNDER DEVELOPMENT, BUSY WITH WORK/SCHOOL WORK AND LIFE! ~ ETA: soon lo
 - Also, you need a twitter api token/access key, to get that just go to https://apps.twitter.com/ and register for an developer account..
 - Fill any credential in the config.json file - MUST FILL EVERYTHING IN ORDER FOR IT TO WORK!!.
 - AND ENJOY :)
+- Then run command pm2 start index.js
+- If bot crash, run pm2 list first => get the id => then run pm2 restart id
+- to stop bot, run pm2 stop id
 
 ## Usage
 

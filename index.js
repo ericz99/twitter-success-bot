@@ -45,7 +45,7 @@ client.on("message", msg => {
 
       const success_msg = `Success from ${cookGroup} - By ${
         msg.author.username
-      }`;
+        }`;
       const splitMsg = msg.content.split(" ");
       const newMsg = splitMsg.filter((result, i) => {
         if (result.includes("https") || result.includes("http")) {
@@ -103,7 +103,7 @@ client.on("message", msg => {
                         const tweet_id = data.id_str;
                         console.log(
                           `Tweet Sent: https://twitter.com/${
-                            data.user.screen_name
+                          data.user.screen_name
                           }/status/${data.id_str}`
                         );
 

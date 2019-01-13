@@ -23,6 +23,7 @@
     "discord.js": "^11.4.2",
     "moment": "^2.22.2",
     "node-base64-image": "^1.0.5",
+    "pm2": "^3.2.8",
     "request": "^2.88.0",
     "request-promise": "^4.2.2",
     "twit": "^2.2.11"
