@@ -5,13 +5,11 @@ CURRENTLY UNDER DEVELOPMENT, BUSY WITH WORK/SCHOOL WORK AND LIFE! ~ ETA: soon lo
 
 ## Instruction
 
-- npm install
-- cd directory folder -> then type in cmd or terminal npm start
+- cd dir => then npm install => then run pm2 start index.js
 - All you need is a discord application token for your server. Just put a random bot into your server and everything will take effect under "success" (without quotes) channel
 - Also, you need a twitter api token/access key, to get that just go to https://apps.twitter.com/ and register for an developer account..
 - Fill any credential in the config.json file - MUST FILL EVERYTHING IN ORDER FOR IT TO WORK!!.
 - AND ENJOY :)
-- Then run command pm2 start index.js
 - If bot crash, run pm2 list first => get the id => then run pm2 restart id
 - to stop bot, run pm2 stop id
 
