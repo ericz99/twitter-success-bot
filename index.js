@@ -8,13 +8,7 @@ require("console-stamp")(console, {
 });
 
 const Discord = require("discord.js");
-const {
-  token,
-  prefix,
-  app,
-  twitter_account,
-  group_name
-} = require("./config.json");
+const { token, app, group_name } = require("./config.json");
 const Twit = require("twit");
 const client = new Discord.Client();
 const base64 = require("node-base64-image");
@@ -45,7 +39,7 @@ client.on("message", msg => {
 
       const success_msg = `Success from ${cookGroup} - By ${
         msg.author.username
-        }`;
+      }`;
       const splitMsg = msg.content.split(" ");
       const newMsg = splitMsg.filter((result, i) => {
         if (result.includes("https") || result.includes("http")) {
@@ -103,7 +97,7 @@ client.on("message", msg => {
                         const tweet_id = data.id_str;
                         console.log(
                           `Tweet Sent: https://twitter.com/${
-                          data.user.screen_name
+                            data.user.screen_name
                           }/status/${data.id_str}`
                         );
 
