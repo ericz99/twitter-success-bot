@@ -12,6 +12,8 @@ STILL UNDER DEVELOPMENT - but pretty much done!
 - AND ENJOY :)
 - If bot crash, run pm2 list first => get the id => then run pm2 restart id
 - to stop bot, run pm2 stop id
+- YOU NEED TO RUN A SERVER TO KEEP THIS BOT ALIVE, THIS IS BECAUSE OF DISCORD API...(so if you closed your computer then discord api will throw an error)
+- Also, run git pull incase theres any update
 
 ## Usage
 
