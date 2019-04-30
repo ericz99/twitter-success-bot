@@ -24,7 +24,3 @@ STILL UNDER DEVELOPMENT - but pretty much done!
 ## Disclaimer
 
 This project was made for educational purposes only. Please use responsibly. Any abused from this script will result in suspension by Twitter.
-
-## Social Media
-
-Follow me https://twitter.com/washed_kid on twitter!
